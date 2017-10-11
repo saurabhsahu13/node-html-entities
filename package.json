@@ -15,7 +15,9 @@
     "name": "Marat Dulin",
     "email": "mdevils@yandex.ru"
   },
-  "dependencies": {},
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
   "devDependencies": {
     "chai": "^1.9.1",
     "mocha": "^1.21.4",
